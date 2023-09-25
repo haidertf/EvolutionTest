@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Se requiere hacer pruebas a la parte de creación, edición y eliminación de usuario particular" skipped="0" tests="2" time="38.15" timestamp="2023-09-25 03:50:02"><testcase name="Crear un usuario particular"/><testcase name="Eliminar un usuario particular"/></testsuite>

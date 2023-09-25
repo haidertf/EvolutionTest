@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Se requiere hacer pruebas a la parte del ingreso a EPX","Inicio de sesion exitoso","SUCCESS","2023-09-25T03:49:47.562307-05:00[America/Bogota]","0.0","14.9"
+"Se requiere hacer pruebas a la parte de creación, edición y eliminación de usuario particular","Crear un usuario particular","SUCCESS","2023-09-25T03:50:02.4660837-05:00[America/Bogota]","0.0","22.03"
+"Se requiere hacer pruebas a la parte de creación, edición y eliminación de usuario particular","Eliminar un usuario particular","SUCCESS","2023-09-25T03:50:24.5003163-05:00[America/Bogota]","0.0","16.12"
